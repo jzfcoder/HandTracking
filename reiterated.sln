@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FCC763AB-A562-C1B4-ADF0-607199E0AD2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NatSuite.ML.Vision.HandPose", "NatSuite.ML.Vision.HandPose.csproj", "{8F76AF1A-F987-71BF-6673-A66CE728D590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC763AB-A562-C1B4-ADF0-607199E0AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC763AB-A562-C1B4-ADF0-607199E0AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC763AB-A562-C1B4-ADF0-607199E0AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC763AB-A562-C1B4-ADF0-607199E0AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F76AF1A-F987-71BF-6673-A66CE728D590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F76AF1A-F987-71BF-6673-A66CE728D590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F76AF1A-F987-71BF-6673-A66CE728D590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F76AF1A-F987-71BF-6673-A66CE728D590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
